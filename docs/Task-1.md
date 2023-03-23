@@ -6,7 +6,7 @@ This section here will instruct you how to forward email from myBCIT mail to the
 
 ### Forwarding Steps
 
-1. Login to myBCIT with your BCIT ID and password
+1. If you're not already, login to [myBCIT](https://my.bcit.ca) with your BCIT ID and password
 2. Click on **MyMail** in the top right corner
 3. Click on **Settings** in the top right corner
 4. Click on **Filters** from the left menu
@@ -17,3 +17,9 @@ This section here will instruct you how to forward email from myBCIT mail to the
 
 8. Under _...execute the following actions_ select **Send Message Copy To** and enter your desired email address
 9. Click **Save** from the bottom right to save your changes
+
+### Check If Your Email is Forwarding
+
+1. From your myBCIT email, try sending yourself an email to the same email address
+2. After it's sent, check the email you forwarded to
+3. You should receive a copy of the email in your personal email

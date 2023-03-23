@@ -28,6 +28,8 @@ This section here will instruct you how to forward email from myBCIT mail to the
 2. Click the **Compose** button in the top left
 3. Your new email should show your default identity and signatures attached already
 
+    If you accidentally delete your signature, just click the **signature** button to reinsert it
+
 ### Conclusion
 
 Now you know how to set up signatures for your emails without worrying about what to write at the end each time.
