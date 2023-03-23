@@ -19,6 +19,7 @@ The documentation assumes the following:
 * Enrollment in at least one course at BCIT.
 
 ## Software Requirements
+
 The only things you need are a Web Browser (Firefox, Chrome, Safari, etc.) installed and access to the internet.
 
 ## Quick Access to Instructions
