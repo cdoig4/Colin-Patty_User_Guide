@@ -1,6 +1,6 @@
 # Introduction
 
-Hello! This documentation will teach you how to utilize your myBCIT email by setting up a signature and setting up email forwarding, as well as walk you through the surprisingly confusing task of replying to your instructor's emails!
+Hello! This documentation will teach you how to utilize your myBCIT email by setting up a signature and email forwarding, as well as walk you through the surprisingly confusing task of replying to your instructor's emails!
 
 ## Intended Users
 
@@ -16,10 +16,19 @@ The documentation assumes the following:
 * Working knowledge of at least one other email service.
 * Working knowledge of email standards.
 * Access to a myBCIT email account and LearningHub.
+* Enrollment in at least one course at BCIT.
 
-## Project layout
+## Software Requirements
+The only things you need are a Web Browser (Firefox, Chrome, Safari, etc.) installed and access to the internet.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Quick Access to Instructions
+
+You can quickly access any of our instruction sets by following the links below:
+
+* Setting up a Signature
+* Setting up Email Forwarding
+* Replying to an Email Message from Your Instructor
+
+## Typographical Conventions
+
+## Note & Warning Messages
