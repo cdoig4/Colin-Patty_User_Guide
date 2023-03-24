@@ -16,9 +16,9 @@ This section here will instruct you how to forward email from myBCIT mail to the
 ![image](./Patty's%20Screenshots/COMM%20Screenshots/Signature%20screenshots/Screen%20Shot%202023-03-24%20at%2010.32.21%20AM.png)
 4. Click on your **email** address from the Identities menu
 ![image](./Patty's%20Screenshots/COMM%20Screenshots/Signature%20screenshots/Screen%20Shot%202023-03-24%20at%2010.33.19%20AM.png)
-5. Make sure the **email** and **name** boxes match your preferences.
+5. Make sure the **Display Name** and **Email** and  boxes match your preferences.
 
-    **Name** should be your default BCIT name. If you want to change it to a preferred name, do it here.
+    **Display Name** should be your default BCIT name. If you want to change it to a preferred name, do it here.
 
     **Email** will be the email you want displayed it is sent from. For example, if you want to send mail as if it’s sent from gmail, enter your gmail address
 
