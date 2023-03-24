@@ -12,14 +12,14 @@ This section here will instruct you how to forward email from myBCIT mail to the
 
 2. Click on **Settings** in the top right corner
 3. Click on **Identities** in the left settings menu  
-4. Click on your email address from the _Identities_ menu
-5. Make sure the _email_ and _name_ boxes match your preferences.
+4. Click on your **email** address from the Identities menu
+5. Make sure the **email** and **name** boxes match your preferences.
 
-    _Name_ should be your default BCIT name. If you want to change it to a preferred name, do it here.
+    **Name** should be your default BCIT name. If you want to change it to a preferred name, do it here.
 
-    _Email_ will be the email you want displayed it is sent from. For example, if you want to send mail as if it’s sent from gmail, enter your gmail address
+    **Email** will be the email you want displayed it is sent from. For example, if you want to send mail as if it’s sent from gmail, enter your gmail address
 
-6. Set your signature in the _signature box_
+6. Set your signature in the **signature box**
 7. Click on the **Save** button on the bottom right
 
 ### Check Your New Signature
