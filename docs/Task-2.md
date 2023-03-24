@@ -6,13 +6,16 @@ This section here will instruct you how to forward email from myBCIT mail to the
 
 ### Setting Your Signature
 
-1. Login to your myBCIT email
+1. Login to your [myBCIT](https://my.bcit.ca)
 
     See detailed instructions in steps 1 and 2 in forwarding email for more instructions if necessary
 
-2. Click on **Settings** in the top right corner
-3. Click on **Identities** in the left settings menu  
+2. Click on **Settings** in the top right corner  
+![image](./Patty's%20Screenshots/COMM%20Screenshots/Screen%20Shot%202023-03-23%20at%204.46.43%20PM.png)
+3. Click on **Identities** in the left settings menu
+![image](./Patty's%20Screenshots/COMM%20Screenshots/Signature%20screenshots/Screen%20Shot%202023-03-24%20at%2010.32.21%20AM.png)
 4. Click on your **email** address from the Identities menu
+![image](./Patty's%20Screenshots/COMM%20Screenshots/Signature%20screenshots/Screen%20Shot%202023-03-24%20at%2010.33.19%20AM.png)
 5. Make sure the **email** and **name** boxes match your preferences.
 
     **Name** should be your default BCIT name. If you want to change it to a preferred name, do it here.
@@ -21,14 +24,17 @@ This section here will instruct you how to forward email from myBCIT mail to the
 
 6. Set your signature in the **signature box**
 7. Click on the **Save** button on the bottom right
+![image](./Patty's%20Screenshots/COMM%20Screenshots/Signature%20screenshots/Screen%20Shot%202023-03-24%20at%2010.40.38%20AM.png)
 
 ### Check Your New Signature
 
 1. Go to your mail homepage by clicking **Mail**
-2. Click the **Compose** button in the top left
+2. Click the **Compose** button in the top left  
+![image](./Patty's%20Screenshots/COMM%20Screenshots/Signature%20screenshots/Screen%20Shot%202023-03-24%20at%2010.42.11%20AM.png)
 3. Your new email should show your default identity and signatures attached already
 
     If you accidentally delete your signature, just click the **signature** button to reinsert it
+![image](./Patty's%20Screenshots/COMM%20Screenshots/Signature%20screenshots/Screen%20Shot%202023-03-24%20at%2010.45.24%20AM.png)
 
 ### Conclusion
 
