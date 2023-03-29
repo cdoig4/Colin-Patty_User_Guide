@@ -35,33 +35,42 @@ This section will instruct you on how to reply to your BCIT instructor's email c
         ![image](./Colin's_Screenshots/Lecture_and_Lab_Example.png)
 
 3. Check the **Course Home** page to see if the instructor's email has been posted there.  
-
-    !!! Note "All News Items"
-        * If it is later in the semester you may have to click **Show All News Items** towards the bottom of the page to locate the post containing it
-        ![image](./Colin's_Screenshots/Show_All_News_Button.png)
+    * If it is present it should be in the **News** section  
+    ![image](./Colin's_Screenshots/Course_Home_News.png)
 
     !!! Success "Found Instructor's Email"
-        + If the instructor's email *IS* present, move to step 6
+        + If the instructor's email *IS* present, move to step 7
         ![image](./Colin's_Screenshots/Content_Page_Email_Success.png)
 
     !!! Failure "404 Instructor's Email Not Found"
         + If the instructor's email is *NOT* present, continue to the next step
 
-4. Check the **Course Outline** for the course to see if the instructor's email has been included.
+4. Scroll to the bottom of the page and click the **Show All News Items** button
+    * Look through all of the items as the email could have been posted in any of them.  
+    ![image](./Colin's_Screenshots/Show_All_News_Button.png)  
+
+    !!! Success "Found Instructor's Email"
+        + If the instructor's email *IS* present, move to step 7
+        ![image](./Colin's_Screenshots/Content_Page_Email_Success.png)
+
+    !!! Failure "404 Instructor's Email Not Found"
+        + If the instructor's email is *NOT* present, continue to the next step
+
+5. Check the **Course Outline** for the course to see if the instructor's email has been included.
 
     !!! Note "Finding Course Outlines"
         * Some instructor's do not post their course outlines on their course page. In this case [follow this link](https://www.bcit.ca/outlines/) and search for the correct course.  
 
     !!! Success "Found Instructor's Email"
-        + If the instructor's email *IS* present, move to step 6
+        + If the instructor's email *IS* present, move to step 7
         ![image](./Colin's_Screenshots/Course_Outline_Success.png)
 
     !!! Failure "404 Instructor's Email Not Found"
         + If the instructor's email is *NOT* present, continue to the next step
 
-5. Access the [**BCIT Faculty Directory**](https://www.bcit.ca/contacts/) and search for the instructor's contact information.
+6. Access the [**BCIT Faculty Directory**](https://www.bcit.ca/contacts/) and search for the instructor's contact information.
 ![image](./Colin's_Screenshots/Faculty_Contact_Success.png)
-6. Copy the email address and navigate back to your myBCIT email tab.
+7. Copy the email address and navigate back to your myBCIT email tab.
 
 ## Sending the Reply
 
