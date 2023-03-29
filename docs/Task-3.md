@@ -1,10 +1,10 @@
 # Replying to BCIT Instructor Emails
 
-## Overview
+### Overview
 
-This section will instruct you on how to reply to your BCIT instructor's email correctly! While it may sound simple, the email that instructors send from is often different from the one that we students receive. Using this guide should make this process much easier for you.
+This section will instruct you on how to reply to your BCIT instructor's email correctly! While it may sound simple, the email address that instructors send from is often different from the one that we students receive. Using this guide should make this process much easier for you.
 
-## Locating the Email to Reply to
+### Locating the Email to Reply to
 
 1. Login to your [myBCIT](https://my.bcit.ca) email.
 
@@ -20,7 +20,7 @@ This section will instruct you on how to reply to your BCIT instructor's email c
     !!! Note "Correct Email"
         + If it looks similar to this: ![image](./Colin's_Screenshots/Check_FROM_Email_Good.png) you *should* be good to reply. If it doesn't look like this or the reply bounces back, proceed to the next section.
 
-## Locating the Correct Email Address
+### Locating the Correct Email Address
 
 1. Navigate and login to your [LearningHub](https://learn.bcit.ca) in a separate tab.
 ![image](./Colin's_Screenshots/Learning_Hub.png)  
@@ -34,7 +34,7 @@ This section will instruct you on how to reply to your BCIT instructor's email c
         * Some instructor's may have both a Lecture AND Lab page, you will have to check both in the next step if that's the case.
         ![image](./Colin's_Screenshots/Lecture_and_Lab_Example.png)
 
-3. Check the **Course Home** page to see if the instructor's email has been posted there.  
+3. Check the **Course Home** page to see if the instructor's email address has been posted there.  
     * If it is present it should be in the **News** section  
     ![image](./Colin's_Screenshots/Course_Home_News.png)
 
@@ -72,12 +72,14 @@ This section will instruct you on how to reply to your BCIT instructor's email c
 ![image](./Colin's_Screenshots/Faculty_Contact_Success.png)
 7. Copy the email address and navigate back to your myBCIT email tab.
 
-## Sending the Reply
+### Sending the Reply
+
+Now that you have the correct email address, it's time to send your reply!  
 
 1. Click Reply and Paste the correct email address into the **To** box.
 ![image](./Colin's_Screenshots/TO_Box.png)
 2. Write your message and click send!
 
-## Conclusion
+### Conclusion
 
 You now know how to locate your instructor's email addresses so that you can send or reply to emails from them without confusion!
