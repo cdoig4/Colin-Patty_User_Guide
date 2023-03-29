@@ -35,6 +35,9 @@ This section here will instruct you how to forward email from myBCIT mail to the
 2. After it's sent, check the email you forwarded to.
 3. You should receive a copy of the email in your personal email.
 
+!!! warning
+    Sometimes mail that is forwarded end up in your mailbox as spam. So even if every mail is forwarded, make sure to check your your myBCIT mailbox periodically to make sure no mail is being missed.
+
 ### Conclusion
 
 Now you know how to have a copy of every single email sent to your myBCIT mail forwarded to your desired mailbox.
