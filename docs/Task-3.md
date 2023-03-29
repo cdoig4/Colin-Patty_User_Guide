@@ -13,8 +13,8 @@ This section will instruct you on how to reply to your BCIT instructor's email c
 ![image](./Colin's_Screenshots/Find_Email_To_Reply_To.png)
 
 3. Check the email address in the **From** box.  
- If it looks similar to this: ![image](./Colin's_Screenshots/Check_FROM_Email_Good.png) you **should** be good to reply. If it doesn't look like this or the reply bounces back, proceed to the next section.  
- **Make sure to leave this tab open on the email that you wish to reply to.**
+ If it looks similar to this: ![image](./Colin's_Screenshots/Check_FROM_Email_Good.png) you *should* be good to reply. If it doesn't look like this or the reply bounces back, proceed to the next section.  
+ *Make sure to leave this tab open on the email that you wish to reply to.*
 
 ## Locating the Correct Email Address
 
@@ -30,15 +30,15 @@ This section will instruct you on how to reply to your BCIT instructor's email c
  Don't forget to check both Lecture AND Lab pages if they exist  
  If it is later in the semester you may have to click Show All News Items towards the bottom of the page to locate the post containing it
  ![image](./Colin's_Screenshots/Show_All_News_Button.png)
- If the instructor's email **IS** present, move to step 6
+ If the instructor's email *IS* present, move to step 6
  ![image](./Colin's_Screenshots/Content_Page_Email_Success.png)
- If the instructor's email is **NOT** present, continue to the next step
+ If the instructor's email is *NOT* present, continue to the next step
 
 4. Check the **Course Outline** for the course to see if the instructor's email has been included.  
  Note that some instructor's do not post their course outlines on their course page. In this case [follow this link](https://www.bcit.ca/outlines/) and search for the correct course.  
- If the instructor's email **IS** present, move to step 6  
+ If the instructor's email *IS* present, move to step 6  
  ![image](./Colin's_Screenshots/Course_Outline_Success.png)
- If the instructor's email is **NOT** present, continue to the next step
+ If the instructor's email is *NOT* present, continue to the next step
 
 5. Access the [**BCIT Faculty Directory**](https://www.bcit.ca/contacts/) and search for the instructor's contact information.
 ![image](./Colin's_Screenshots/Faculty_Contact_Success.png)
