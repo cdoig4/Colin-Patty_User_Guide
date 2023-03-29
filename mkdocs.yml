@@ -2,10 +2,7 @@ site_name: Patty and Colin's Amazing myBCIT Email Guide!
 theme:
   name: material
   features:
-    - navigation.tabs
-    - navigation.sections
     - toc.integrate
-    - navigation.top
     - search.suggest
     - search.highlight
     - content.tabs.link
