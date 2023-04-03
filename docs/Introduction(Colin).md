@@ -42,14 +42,14 @@ Throughout the documentation, we have added message blocks to inform you about c
 !!! Danger "Danger"
     Denotes actions that users must avoid taking to prevent issues.  
 
+!!! Failure "Failure"
+    Indicates next action to take in case of failure.
+
 !!! Warning "Warning"
     Denotes information that must be read to ensure full understanding of unavoidable issues.  
 
 !!! Note "Note"
     Denotes additional information or helpful tips.
-
-!!! Failure "Failure"
-    Indicates next action to take in case of failure.
 
 !!! Success "Success"
     Indicates next action to take in case of success and gives an example image of successful action.
