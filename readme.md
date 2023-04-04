@@ -16,10 +16,10 @@ Having struggle ourselves through using the email system, much of what we refere
 
 MkDocs provided a great way to provide an esthetic website build. It had several built in components that were easy to customize and provided a lot of variety in terms of themes and overall appearance.
 
-## Markdown Language
+### Markdown Language
 
 For both team members, this was the first time we used Markdown language for a larger scale project. Having gone through Markdown walkthroughs it was beneficial to be able to apply our knowledge and gain experience with using the language.
 
-## VSCode
+### VSCode
 
 Using VSCode we were able to work collaboratively on the same document by linking to a shared GitHub repository.
