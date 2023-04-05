@@ -1,6 +1,6 @@
 # Introduction
 
-Hello! This documentation will teach you how to utilize your myBCIT email by setting up a signature and email forwarding, as well as walk you through the surprisingly confusing task of replying to your instructor's emails!
+Hello :smile: ! This documentation will teach you how to utilize your myBCIT email by setting up a signature and email forwarding, as well as walk you through the surprisingly confusing task of replying to your instructor's emails!
 
 ## Intended Users
 

@@ -2,7 +2,7 @@
 
 ### Overview
 
-This section here will instruct you how to forward email from myBCIT mail to the mailbox of your choice. myBCIT is the default email used for all BCIT correspondences, including announcements and course info. Being able to forward it to your personal mailbox means you won’t have to actively check the myBCIT mailbox yourself.
+This section here will instruct you how to set your own email signatures and identities when replying and sending emails :e-mail: . By doing so, you'll be able to easily respond to emails knowing that your contact information and designation is always included at the bottom of each email.
 
 ### Setting Your Signature
 
