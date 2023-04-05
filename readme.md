@@ -26,7 +26,7 @@ Using VSCode we were able to work collaboratively on the same document by linkin
 
 ### Writing Style and Organization
 
-When writing this guide, we wanted to ensure that it would be welcoming and readable for the reader. Therefore we used language that was clear and concise to provide concrete instructions.
+When writing this guide, we wanted to ensure that it would be welcoming and readable for the reader. Therefore we used language that was clear and concise.
 
 ## Alert Blocks
 
