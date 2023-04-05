@@ -1,6 +1,6 @@
 # Introduction
 
-Hello :smile: ! This documentation will teach you how to utilize your myBCIT email by setting up a signature and email forwarding, as well as walk you through the surprisingly confusing task of replying to your instructor's emails!
+Hello :smile: ! This documentation will teach you how to use your myBCIT email by setting up a signature and email forwarding, as well as walk you through the surprisingly confusing task of replying to your instructor's emails!
 
 ## Intended Users
 
@@ -32,12 +32,12 @@ You can quickly access any of our instruction sets by following the links below:
 
 ## Typographical Conventions
 
-1. Words that denote an actionable item (typically a section or button on a webpage) will be in **Bold**.
+1. Words that require action (ex. click) will be in **bold**.
 2. Italics have been added to some words for the purpose of *emphasis*.
 
 ## Note & Warning Messages
 
-Throughout the documentation, we have added message blocks to inform you about certain actions. Here are examples of each message block, from most to least important:  
+Throughout the documentation, we have added message blocks to inform you about certain actions. Here are examples of each type of message block, from most to least important:  
 
 !!! Danger "Danger"
     Denotes actions that users must avoid taking to prevent issues.  
