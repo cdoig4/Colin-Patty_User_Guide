@@ -39,7 +39,7 @@ This section will instruct you on how to reply to your BCIT instructor's email c
     ![image](./Colin's_Screenshots/Course_Home_News.png)
 
     !!! Success "Found Instructor's Email Address"
-        + If the instructor's email address *IS* present, move to step 7
+        + If the instructor's email address *IS* present, move to [step 7](#step7)
         ![image](./Colin's_Screenshots/Content_Page_Email_Success.png)
 
     !!! Failure "404 Instructor's Email Address Not Found"
@@ -50,7 +50,7 @@ This section will instruct you on how to reply to your BCIT instructor's email c
     ![image](./Colin's_Screenshots/Show_All_News_Button.png)  
 
     !!! Success "Found Instructor's Email Address"
-        + If the instructor's email address *IS* present, move to step 7
+        + If the instructor's email address *IS* present, move to [step 7](#step7)
         ![image](./Colin's_Screenshots/Content_Page_Email_Success.png)
 
     !!! Failure "404 Instructor's Email Address Not Found"
@@ -62,7 +62,7 @@ This section will instruct you on how to reply to your BCIT instructor's email c
         * Some instructor's do not post their course outlines on their course page. In this case [follow this link](https://www.bcit.ca/outlines/) and search for the correct course.  
 
     !!! Success "Found Instructor's Email Address"
-        + If the instructor's email *IS* present, move to step 7
+        + If the instructor's email *IS* present, move to [step 7](#step7)
         ![image](./Colin's_Screenshots/Course_Outline_Success.png)
 
     !!! Failure "404 Instructor's Email Not Found Address"
@@ -70,7 +70,7 @@ This section will instruct you on how to reply to your BCIT instructor's email c
 
 6. Access the [**BCIT Faculty Directory**](https://www.bcit.ca/contacts/) and search for the instructor's contact information.
 ![image](./Colin's_Screenshots/Faculty_Contact_Success.png)
-7. Copy the email address and navigate back to your myBCIT email tab.
+7. <span id="step7"> Copy the email address and navigate back to your myBCIT email tab.
 
 ### Sending the Reply
 
