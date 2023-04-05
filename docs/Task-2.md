@@ -2,7 +2,7 @@
 
 ### Overview
 
-This section here will instruct you how to set your own email signatures and identities when replying and sending emails :e-mail: . By doing so, you'll be able to easily respond to emails knowing that your contact information and designation is always included at the bottom of each email.
+This section here will instruct you how to set your own email signatures and identities when replying and sending emails :e-mail: . By doing so, you'll be able to easily respond to emails knowing that your contact information and name is always included at the bottom of each email.
 
 ### Setting Your Signature
 
