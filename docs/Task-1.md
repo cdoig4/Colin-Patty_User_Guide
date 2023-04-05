@@ -31,8 +31,8 @@ This section here will instruct you how to forward email from myBCIT mail to the
 
 ### Check If Your Email is Forwarding
 
-1. From your myBCIT email, try sending yourself an email to the same email address.
-2. After it's sent, check the email you forwarded to.
+1. From any email address, try sending yourself an email to your myBCIT email address.
+2. After it's sent, check the email you set up forwarding to.
 3. You should receive a copy of the email in your personal email.
 
 !!! warning
