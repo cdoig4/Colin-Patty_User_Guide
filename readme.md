@@ -33,19 +33,19 @@ When writing this guide, we wanted to ensure that it would be welcoming and read
 To help ensure readability, we utilized the MkDocs' alert blocks to notify the reader about different types of information.  
 
 Denotes actions that users must avoid taking to prevent issues.
-[image](./readme_images/Danger.png)  
+![image](./readme_images/Danger.png)  
 
 Indicates next action to take in case of failure.
-[image](./readme_images/Failure.png)  
+![image](./readme_images/Failure.png)  
 
 Denotes information that must be read to ensure full understanding of unavoidable issues.
-[image](./readme_images/Warning.png)  
+![image](./readme_images/Warning.png)  
 
 Denotes additional information or helpful tips.
-[image](./readme_images/Note.png)  
+![image](./readme_images/Note.png)  
 
 Indicates next action to take in case of success and gives an example image of successful action.
-[image](./readme_images/Success.png)  
+![image](./readme_images/Success.png)  
 
 ## Layout
 
