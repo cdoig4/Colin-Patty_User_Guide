@@ -82,4 +82,4 @@ Now that you have the correct email address, it's time to send your reply!
 
 ### Conclusion
 
-:white_check_mark: You now know how to locate your instructor's email addresses so that you can send or reply to emails from them without confusion!
+You now know how to locate your instructor's email addresses so that you can send or reply to emails from them without confusion!

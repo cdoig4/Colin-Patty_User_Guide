@@ -18,7 +18,7 @@ MkDocs provided a great way to provide an esthetic website build. It had several
 
 ### Markdown Language
 
-For both team members, this was the first time we used Markdown language for a larger scale project. Having gone through Markdown walkthroughs it was beneficial to be able to apply our knowledge and gain experience with using the language.
+For both team members, this was the first time we used Markdown language for a larger scale project. Having gone through Markdown walkthroughs, it was beneficial to be able to apply our knowledge and gain experience with using the language.
 
 ### VSCode
 
@@ -26,7 +26,7 @@ Using VSCode we were able to work collaboratively on the same document by linkin
 
 ### Writing Style and Organization
 
-When writing this guide, we wanted to ensure that it would be welcoming and readable for the reader. Therefore we used language that was clear and concise to provide concrete instructions.
+When writing this guide, we wanted to ensure that it would be welcoming and readable for the reader. Therefore we used language that was clear and concise.
 
 ## Alert Blocks
 
@@ -49,11 +49,11 @@ Indicates next action to take in case of success and gives an example image of s
 
 ## Layout
 
-In addition to the alert blocks, we also utilized a built-in MkDocs navigation layout in order to show subsections nested within each page to allow readers to quickly move between them. This allows the reader to easily backtrack or move to a different page when needed.
+In addition to the alert blocks, we also used a built-in MkDocs navigation layout in order to show subsections of each page. This allows the reader to easily backtrack or move to a different page when needed.
 
 ### Conclusion
 
-This documentation was made to help incoming BCIT students utilize their MyBCIT email account to the fullest while reducing the confusion that comes with some tasks. It was enjoyable for us to write as many of these tasks were things we had to figure out ourselves in our first term.  
+This documentation was made to help incoming BCIT students use their MyBCIT email account to the fullest while reducing the confusion that comes with some tasks. It was enjoyable for us to write as many of these tasks were things we had to figure out ourselves in our first term.  
 Writing this documentation was also a fantastic opportunity for us to learn how to use MkDocs for documentation and write clear instructions for an intended audience.  
 Thank you for taking the time to read this! We hope this documentation helps you figure out your MyBCIT email and that you pass it on to anyone else who may find it useful.  
 This documentation was created using [Material for MkDocs](https://github.com/squidfunk/mkdocs-material)
